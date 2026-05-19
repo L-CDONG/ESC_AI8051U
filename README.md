@@ -1,8 +1,5 @@
 # STC8051U BLDC ESC – 无传感器无刷电子调速器
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-STC8051U-red)]()
-[![Motor](https://img.shields.io/badge/Motor-BLDC--Sensorless-brightgreen)]()
 
 基于 **STC8051U** 单片机设计的 **无传感器无刷直流电机（BLDC）电子调速器（ESC）**，适用于无人机、小型电动工具
 
